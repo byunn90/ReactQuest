@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Technologies](#technologies)
+- [Technologies](#technologies)
 - [Contributing](#contributing)
 
 ## Description
