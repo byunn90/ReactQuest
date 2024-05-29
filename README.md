@@ -1,4 +1,4 @@
-# Project Title
+# React Quest 🧙‍♂️
 
 ## Table of Contents
 
